@@ -52,15 +52,15 @@ Inicie um servidor local (ex: com a extensão Live Server do VSCode)
 
 Abra no navegador em http://localhost:5500 (ou endereço indicado)
 
-🚀 Deploy
+🚀 Deploy:
 O jogo está publicado via GitHub Pages.
 Acesse em:
 👉 https://daniele.github.io/jogo_gatinhos/
 
-✨ Créditos
+✨ Créditos:
 Desenvolvido por Daniele Rosa 💻
 Com muito carinho, café ☕ e amor por gatinhos 🐾
 
-📜 Licença
+📜 Licença:
 Este projeto é de uso livre para fins de estudo.
 Os recursos visuais e sonoros pertencem aos seus respectivos autores.
