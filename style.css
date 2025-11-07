@@ -1,0 +1,36 @@
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      overflow: hidden;
+      background-color: #222;
+    }
+
+    canvas {
+      display: block;
+      background: linear-gradient(#87CEEB, #5CA0D3); /* Céu */
+    }
+
+    #music-toggle {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  border: none;
+  font-size: 28px;
+  padding: 5px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+  user-select: none;
+}
+#music-toggle:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+#music-toggle:active {
+  transform: scale(0.9);
+}
